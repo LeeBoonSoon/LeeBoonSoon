@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeeBoonSoon
-- 👀 I’m interested winnie
+- 👀 I’m interested Android Java, WebSite responsive and animation design
 - 🌱 I’m currently learning Information System Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leeboonsoon2@gmail.com
